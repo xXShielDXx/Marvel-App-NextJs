@@ -1,0 +1,2723 @@
+{
+      "comics": [
+        {
+          "id": 101170,
+          "digitalId": 0,
+          "title": "Midnight Suns (2022) #2",
+          "issueNumber": 2,
+          "variantDescription": "",
+          "description": "The Midnight Suns…Are Doomed! The new team of Midnight Suns – Magik, Wolverine, Blade, Spirit Rider, And Nico Minoru – face their first brutal test when DOCTOR DOOM lays siege to Strange Academy! What is Doom after?! And an even bigger threat awaits IF they survive – a threat tied to the Sorcerer Supreme and one only the Midnight Suns have the power to overcome. ",
+          "modified": "2022-07-01T09:07:25-0400",
+          "isbn": "",
+          "upc": "75960620400700211",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/101170",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/101170/midnight_suns_2022_2?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Midnight-Suns-2/digital-comic/60572?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34645",
+            "name": "Midnight Suns (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105027",
+              "name": "Midnight Suns (2022) #2 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105026",
+              "name": "Midnight Suns (2022) #2 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105769",
+              "name": "Midnight Suns (2022) #2 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/634f64a762e40",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/634f64a762e40",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101170/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/428",
+                "name": "Antonio Fabela",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13525",
+                "name": "Thomas Groneman",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+                "name": "David Nakayama",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                "name": "Vc Joe Sabino",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13232",
+                "name": "Ethan Sacks",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14367",
+                "name": "Luigi Zagaria",
+                "role": "inker"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101170/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101170/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/223442",
+                "name": "cover from Midnight Suns (2022) #2",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/223443",
+                "name": "story from Midnight Suns (2022) #2",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101170/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 103522,
+          "digitalId": 0,
+          "title": "Shang-Chi and the Ten Rings (2022) #4",
+          "issueNumber": 4,
+          "variantDescription": "",
+          "description": "The game of rings starts here! Shang-Chi must compete in a martial arts tournament against some of his deadliest foes. The winning prize? The Ten Rings! But who has staged this contest? And does Shang-Chi truly want to win?! ",
+          "modified": "2022-07-01T09:08:38-0400",
+          "isbn": "",
+          "upc": "75960620475500411",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/103522",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/103522/shang-chi_and_the_ten_rings_2022_4?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Shang-Chi-and-the-Ten-Rings-4/digital-comic/60582?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/35631",
+            "name": "Shang-Chi and the Ten Rings (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105041",
+              "name": "Shang-Chi and the Ten Rings (2022) #4 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105719",
+              "name": "Shang-Chi and the Ten Rings (2022) #4 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/106594",
+              "name": "Shang-Chi and the Ten Rings (2022) #4 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/634f648596d39",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/634f648596d39",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103522/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+                "name": "Erick Arciniega",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                "name": "Vc Travis Lanham",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13932",
+                "name": "Dike Ruan",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13027",
+                "name": "Darren Shan",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9038",
+                "name": "Marcus to",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+                "name": "Matthew Wilson",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14041",
+                "name": "Gene Yang",
+                "role": "writer"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103522/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103522/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/228147",
+                "name": "cover from Shang-Chi and the Ten Rings (2022) #4",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/228148",
+                "name": "story from Shang-Chi and the Ten Rings (2022) #4",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103522/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 103779,
+          "digitalId": 0,
+          "title": "Alien (2022) #2",
+          "issueNumber": 2,
+          "variantDescription": "",
+          "description":" Nothing organic ever tangled with us and walked away. “Steel Team,” the legendary, unkillable Synthetic Special Operations team, has been reactivated. Sent to an abandoned Weyland-Yutani outpost to recover a project that now could save millions, Steel Team is the United Systems' only hope as they navigate the hellscape that the once-idyllic Tobler-9 has become. Since its mysterious downfall years earlier, Tobler-9 is considered one of the most hostile environments in the known universe, a place where nothing organic could possibly have survived…could it? ",
+          "modified": "2022-07-01T09:03:56-0400",
+          "isbn": "",
+          "upc": "75960620485400211",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/103779",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/103779/alien_2022_2?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Alien-2/digital-comic/60547?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/35683",
+            "name": "Alien (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/104532",
+              "name": "Alien (2022) #2 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/104533",
+              "name": "Alien (2022) #2 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/104534",
+              "name": "Alien (2022) #2 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/634f64cce51b3",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/634f64cce51b3",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103779/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14321",
+                "name": "Bjorn Barends",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+                "name": "Sarah Brunstad",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+                "name": "Vc Clayton Cowles",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13750",
+                "name": "Phillip Kennedy Johnson",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14121",
+                "name": "Yen Nitro",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14313",
+                "name": "Julius Ohta",
+                "role": "inker"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103779/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103779/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/228661",
+                "name": "cover from Alien (2022) #2",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/228662",
+                "name": "story from Alien (2022) #2",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103779/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 98295,
+          "digitalId": 0,
+          "title": "Carnage (2022) #7",
+          "issueNumber": 7,
+          "variantDescription": "",
+          "description":" With violence and glory on its mind, the Carnage symbiote continues to carve a bloody path through the underworld with the singular goal of reaching Malekith the Accursed. But what does Carnage want with the disgraced lord of the Dark Elves, and what does it have to do with Venom and Eddie Brock? ",
+          "modified": "2022-07-01T09:04:55-0400",
+          "isbn": "",
+          "upc": "759606202431000711",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/98295",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/98295/carnage_2022_7?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Carnage-7/digital-comic/60558?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/33904",
+            "name": "Carnage (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/103581",
+              "name": "Carnage (2022) #7 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105698",
+              "name": "Carnage (2022) #7 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/634f64a93a627",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/634f64a93a627",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98295/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13619",
+                "name": "Roge Antonio",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+                "name": "Erick Arciniega",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+                "name": "Edward Devin Lewis",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14329",
+                "name": "kunkka",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                "name": "Vc Joe Sabino",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13757",
+                "name": "Ram. V.",
+                "role": "writer"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98295/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98295/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/217659",
+                "name": "cover from Carnage (2022) #7",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/217660",
+                "name": "story from Carnage (2022) #7",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98295/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 100039,
+          "digitalId": 0,
+          "title": "Defenders: Beyond (2022) #4",
+          "issueNumber": 4,
+          "variantDescription": "",
+          "description":" On their quest to save reality itself, the Defenders have stared down the Beyonder and survived the scorching flames of the Phoenix, but now Loki and Co. must face their greatest threat yet -- themselves! The Defenders find themselves in a plane of possibility, where they are haunted by visions of the lives they wish they could have – if only, the dream weaver warns, they didn't have the others holding them back! Will they turn against each other? Or accept closing those doors? ",
+          "modified": "2022-07-01T09:05:22-0400",
+          "isbn": "",
+          "upc": "75960620335200411",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/100039",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/100039/defenders_beyond_2022_4?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Defenders-Beyond-4/digital-comic/60562?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34393",
+            "name": "Defenders: Beyond (2022 - Present)"
+          },
+          "variants": [],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/634f64a93bbca",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/634f64a93bbca",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 4,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100039/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Vc Joe Caramagna",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+                "name": "Al Ewing",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                "name": "Wilson Moss",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1117",
+                "name": "Javier Rodriguez",
+                "role": "penciler (cover)"
+              }
+            ],
+            "returned": 4
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100039/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100039/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/221179",
+                "name": "cover from Defenders: TBD (2029) #4",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/221180",
+                "name": "story from Defenders: TBD (2029) #4",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100039/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 89621,
+          "digitalId": 0,
+          "title": "Predator (2022) #3",
+          "issueNumber": 3,
+          "variantDescription": "",
+          "description": "Theta is ambushed by a Predator! But is this the Predator that she’s been tracking all these years? And without her weaponry, is she prepared to take it on one-on-one?",
+          "modified": "2022-07-01T09:08:07-0400",
+          "isbn": "",
+          "upc": "75960609928300311",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/89621",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/89621/predator_2022_3?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Predator-3/digital-comic/60579?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/30873",
+            "name": "Predator (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/104600",
+              "name": "Predator (2022) #3 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/104599",
+              "name": "Predator (2022) #3 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/634f64a5e1404",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/634f64a5e1404",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89621/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12699",
+                "name": "Ed Brisson",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+                "name": "Vc Clayton Cowles",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                "name": "Frank D'ARMATA",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11579",
+                "name": "Sunny Gho",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13027",
+                "name": "Darren Shan",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/234",
+                "name": "Kev Walker",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                "name": "Leinil Francis Yu",
+                "role": "penciler (cover)"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89621/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89621/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/199559",
+                "name": "cover from Dutchie: Title to Change (2021) #3",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/199560",
+                "name": "story from Dutchie: Title to Change (2021) #3",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89621/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 101153,
+          "digitalId": 0,
+          "title": "Deadly Neighborhood Spider-Man (2022) #1",
+          "issueNumber": 1,
+          "variantDescription": "",
+          "description": "A revolutionary dark take on Spider-Man begins here! What is reality and what is dream? What is science and what is magic? At the intersection of all of this stands the Deadly Neighborhood Spider-Man. Peter Parker goes to Los Angeles and what he finds there are definitely not angels. The demons waiting for Peter are going to test him like never before. One demon in particular, a very famous one for Marvel and X-fans in particular, might just eat Spider-Man alive. ",
+          "modified": "2022-02-26T09:06:44-0500",
+          "isbn": "",
+          "upc": "759606203971000111",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 40,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/101153",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/101153/deadly_neighborhood_spider-man_2022_1?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Deadly-Neighborhood-Spider-Man-1/digital-comic/59597?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34642",
+            "name": "Deadly Neighborhood Spider-Man (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/102618",
+              "name": "Deadly Neighborhood Spider-Man (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/102619",
+              "name": "Deadly Neighborhood Spider-Man (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/102620",
+              "name": "Deadly Neighborhood Spider-Man (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/102621",
+              "name": "Deadly Neighborhood Spider-Man (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/102622",
+              "name": "Deadly Neighborhood Spider-Man (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/102623",
+              "name": "Deadly Neighborhood Spider-Man (2022) #1 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 4.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/634fefafade0f",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/634fefafade0f",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101153/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14058",
+                "name": "B. Earl",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13857",
+                "name": "Jimmy Gomez",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13558",
+                "name": "Juan Ferreyra",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                "name": "Vc Travis Lanham",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+                "name": "Edward Devin Lewis",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14082",
+                "name": "R Rahzzah",
+                "role": "penciler (cover)"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101153/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101153/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/223408",
+                "name": "cover from Deadly Neighborhood Spider-Man (2022) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/223409",
+                "name": "story from Deadly Neighborhood Spider-Man (2022) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101153/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 98668,
+          "digitalId": 0,
+          "title": "Captain America: Symbol of Truth (2022) #6",
+          "issueNumber": 6,
+          "variantDescription": "",
+          "description": "Still reeling from his conflict with Wakanda, Sam Wilson is called to the international stage once again to protect a visiting politician from the African nation of Mohannda. But the White Wolf has already put the second stage of his plan into motion, with dire consequences for both Sam’s closest friends…and Mohannda. Old allies return and new enemies rise in this thrilling new chapter of Captain America: Symbol of Truth! ",
+          "modified": "2022-07-01T09:04:48-0400",
+          "isbn": "",
+          "upc": "75960620279900611",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/98668",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/98668/captain_america_symbol_of_truth_2022_6?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Captain-America-Symbol-of-Truth-6/digital-comic/60556?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34023",
+            "name": "Captain America: Symbol of Truth (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105009",
+              "name": "Captain America: Symbol of Truth (2022) #6 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105696",
+              "name": "Captain America: Symbol of Truth (2022) #6 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/106588",
+              "name": "Captain America: Symbol of Truth (2022) #6 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/634f64a9543ce",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/634f64a9543ce",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98668/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11482",
+                "name": "Jesus Aburtov",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Vc Joe Caramagna",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8606",
+                "name": "Ig Guara",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14150",
+                "name": "Tochi Onyebuchi",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12489",
+                "name": "R.B. Silva",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13046",
+                "name": "Alanna Smith",
+                "role": "editor"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98668/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98668/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/218429",
+                "name": "cover from Courageous Captain America (2022) #6",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/218430",
+                "name": "story from Courageous Captain America (2022) #6",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98668/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 103239,
+          "digitalId": 0,
+          "title": "Crypt Of Shadows (2022) #1",
+          "issueNumber": 1,
+          "variantDescription": "",
+          "description": "The heroes of the Marvel Universe spend most of their time in the bright sun, flying high above it all…but every once in a while, they venture into the darkness that lurks in the hidden corners of the world. There lurk the creatures, the monsters, the vampires…the ones who prey on innocence and goodness. Join us, and some of your favorite heroes, for tales of fangs, claws and silent, stalking swamp creatures to celebrate All Hallows’ Eve! ",
+          "modified": "2022-10-18T22:40:27-0400",
+          "isbn": "",
+          "upc": "75960620463200111",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 56,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/103239",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/103239/crypt_of_shadows_2022_1?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Crypt-Of-Shadows-1/digital-comic/60559?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/35568",
+            "name": "Crypt Of Shadows (2022)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105023",
+              "name": "Crypt Of Shadows (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105024",
+              "name": "Crypt Of Shadows (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105597",
+              "name": "Crypt Of Shadows (2022) #1 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 19, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-19T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 5.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/634f64cbf1663",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/634f64cbf1663",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103239/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14380",
+                "name": "Karen Darboe",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                "name": "Vc Travis Lanham",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+                "name": "Matt Milla",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14141",
+                "name": "Rebecca Roanhorse",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14311",
+                "name": "Jordan White",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                "name": "Leinil Francis Yu",
+                "role": "penciler (cover)"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 1,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103239/characters",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+                "name": "Moon Knight"
+              }
+            ],
+            "returned": 1
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103239/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/227581",
+                "name": "cover from Marvel Halloween Special (2022) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/227582",
+                "name": "story from Marvel Halloween Special (2022) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/103239/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 94541,
+          "digitalId": 0,
+          "title": "Punisher War Journal: Brother (2022) #1",
+          "issueNumber": 1,
+          "variantDescription": "",
+          "description":" Lady Bullseye failed. Lord Deathstrike failed. Every assassin sent to kill Frank fails. The leaders of the underworld crime bosses, heads of terrorist organizations, and even a corrupt government or two come together to solve the growing problem of Frank Castle. Sharing intel, resources, and money, a collective underworld puts out a contract to kill Frank eligible for anyone: assassins, mercenaries or smalltown crooks. The news ripples through the shadows of the world: $500 million to the person who takes down the Punisher. But there’s one face from his past…who’s in this hunt for more than money ",
+          "modified": "2022-10-10T17:24:54-0400",
+          "isbn": "",
+          "upc": "75960620164800111",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 40,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/94541",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/94541/punisher_war_journal_brother_2022_1?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Punisher-War-Journal-Brother-1/digital-comic/60580?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/32208",
+            "name": "Punisher War Journal: Brother (2022)"
+          },
+          "variants": [],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 4.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/634f66152a07a",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/634f66152a07a",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94541/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13523",
+                "name": "Annalise Bissa",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14017",
+                "name": "Torunn Gronbekk",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+                "name": "Morry Hollowell",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+                "name": "Matt Milla",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+                "name": "Vc Cory Petit",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14330",
+                "name": "Rafael Pimentel",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                "name": "Leinil Francis Yu",
+                "role": "penciler (cover)"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94541/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94541/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/210203",
+                "name": "cover from Punisher War Journal (2022) #B1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/210204",
+                "name": "story from Punisher War Journal (2022) #B1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94541/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 100719,
+          "digitalId": 0,
+          "title": "All-Out Avengers (2022) #2",
+          "issueNumber": 2,
+          "variantDescription": "",
+          "description": "The Avengers are on their knees, in chains and at the mercy of Doctor Doom. Their only hope lies in the one man with the strength, honor and sheer decency to possibly stand against the oncoming darkness: the hero the world knows as...Doctor Doom? Plunge into the action from page one and hold on for dear life, gentle reader — this tale doesn’t let up for a moment! ",
+          "modified": "2022-07-01T09:04:00-0400",
+          "isbn": "",
+          "upc": "75960620379600211",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/100719",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/100719/all-out_avengers_2022_2?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/All-Out-Avengers-2/digital-comic/60548?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34554",
+            "name": "All-Out Avengers (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105003",
+              "name": "All-Out Avengers (2022) #2 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105004",
+              "name": "All-Out Avengers (2022) #2 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/634f6664790fd",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/634f6664790fd",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100719/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                "name": "Frank D'ARMATA",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                "name": "Greg Land",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12861",
+                "name": "Derek Landy",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/616",
+                "name": "Jay Leisten",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+                "name": "Vc Cory Petit",
+                "role": "letterer"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100719/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100719/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/222540",
+                "name": "cover from All-Out Avengers (2022) #2",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/222541",
+                "name": "story from All-Out Avengers (2022) #2",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100719/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 102435,
+          "digitalId": 0,
+          "title": "X-Men Unlimited: X-Men Green (2022) #2",
+          "issueNumber": 2,
+          "variantDescription": "",
+          "description": "GOING GREEN! Nature Girl. Curse. Sauron. A dog. With the planet hanging in the balance, these few take up arms to ask How far is too far to save us? Can Logan answer the question before it's too late? The conclusion of the hit story from Marvel Unlimited - in print for the first time with exclusive bonus content! ",
+          "modified": "2022-02-26T09:15:39-0500",
+          "isbn": "",
+          "upc": "75960620431100211",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 56,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/102435",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/102435/x-men_unlimited_x-men_green_2022_2?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/X-Men-Unlimited-X-Men-Green-2/digital-comic/59663?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/35385",
+            "name": "X-Men Unlimited: X-Men Green (2022 - Present)"
+          },
+          "variants": [],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-08-22T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 5.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/631b3571b70d1",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/631b3571b70d1",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 4,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102435/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+                "name": "Gerry Duggan",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12817",
+                "name": "Emilio Laiso",
+                "role": "inker (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+                "name": "Rachelle Rosenberg",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14311",
+                "name": "Jordan White",
+                "role": "editor"
+              }
+            ],
+            "returned": 4
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102435/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102435/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/225971",
+                "name": "cover from X-Men Unlimited: X-Men Green (2022) #2",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/225972",
+                "name": "story from X-Men Unlimited: X-Men Green (2022) #2",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102435/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 100414,
+          "digitalId": 0,
+          "title": "Wakanda (2022) #1",
+          "issueNumber": 1,
+          "variantDescription": "",
+          "description": "The Black Panther is no longer welcome in Wakanda! Who is this proud nation without its king? This exciting new miniseries answers that question as each issue spotlights a different fan-favorite Wakandan character. First up: Shuri proves that being without the Black Panther doesn’t mean Wakanda is without heroes to protect it - and that there is a reason she too once wielded the power. Plus, part one of the “History of the Black Panthers” backup story, providing for the first time anywhere a definitive overview of every Wakandan who has ever held the mantle of the Black Panther! ",
+          "modified": "2022-07-01T09:10:13-0400",
+          "isbn": "",
+          "upc": "75960620365900111",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 40,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/100414",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/100414/wakanda_2022_1?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Wakanda-1/digital-comic/60595?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34472",
+            "name": "Wakanda (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/104706",
+              "name": "Wakanda (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105064",
+              "name": "Wakanda (2022) #1 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 4.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/634f65f209788",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/634f65f209788",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 8,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100414/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12765",
+                "name": "Natacha Bustos",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4074",
+                "name": "Walden Wong",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14299",
+                "name": "Mateus Manhanini",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+                "name": "Paco Medina",
+                "role": "penciler"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                "name": "Wilson Moss",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13233",
+                "name": "Evan Narcisse",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14153",
+                "name": "Stephanie Renee Williams",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                "name": "Vc Joe Sabino",
+                "role": "letterer"
+              }
+            ],
+            "returned": 8
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100414/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100414/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/221930",
+                "name": "cover from Warriors of Wakanda (2022) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/221931",
+                "name": "story from Warriors of Wakanda (2022) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100414/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 101080,
+          "digitalId": 0,
+          "title": "Daredevil (2022) #4",
+          "issueNumber": 4,
+          "variantDescription": "",
+          "description": "For months, Elektra Natchios has been developing a plan to save the world from the violent and ruthless HAND by rebuilding its opposite equal – the FIST. And with the world at large believing he’s dead, Matt Murdock has become her most trusted ally. But Elektra needs more than just an ally – she needs a partner. And in this issue, Matt and Elektra will grow closer than ever before... ",
+          "modified": "2022-07-01T09:05:06-0400",
+          "isbn": "",
+          "upc": "75960620389500411",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/101080",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/101080/daredevil_2022_4?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Daredevil-4/digital-comic/60561?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34624",
+            "name": "Daredevil (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/103582",
+              "name": "Daredevil (2022) #4 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/634f663d00b26",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/634f663d00b26",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101080/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+                "name": "Marco Checchetto",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+                "name": "Vc Clayton Cowles",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14166",
+                "name": "Rafael De Latorre",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+                "name": "Edward Devin Lewis",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+                "name": "Matthew Wilson",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+                "name": "Chip Zdarsky",
+                "role": "writer"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101080/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101080/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/223262",
+                "name": "cover from Daredevil (2022) #4",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/223263",
+                "name": "story from Daredevil (2022) #4",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/101080/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 102998,
+          "digitalId": 0,
+          "title": "Ghost Rider (2022) #7",
+          "issueNumber": 7,
+          "variantDescription": "",
+          "description": "SHADOW HUNTERS! There's a new splinter group within the F.B.I. that is charged with quelling the rise in supernatural activity in the country, and it's helmed by Agent Talia Warroad, who aims to enlist the dangerous power of the drifter named Johnny Blaze! ",
+          "modified": "2022-04-28T23:45:50-0400",
+          "isbn": "",
+          "upc": "75960609979500711",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/102998",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/102998/ghost_rider_2022_7?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Ghost-Rider-7/digital-comic/60185?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/31224",
+            "name": "Ghost Rider (2022 - Present)"
+          },
+          "variants": [],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/634f663c9565b",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/634f663c9565b",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102998/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                "name": "Vc Travis Lanham",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14024",
+                "name": "Kael Ngu",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13614",
+                "name": "Benjamin Percy",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13027",
+                "name": "Darren Shan",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13061",
+                "name": "Cory Smith",
+                "role": "penciler"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13597",
+                "name": "OREN JUNIOR",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14328",
+                "name": "Bryan Valenza",
+                "role": "colorist"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102998/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102998/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/227099",
+                "name": "cover from Ghost Rider (2022) #7",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/227100",
+                "name": "story from Ghost Rider (2022) #7",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102998/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 91738,
+          "digitalId": 0,
+          "title": "Immortal X-Men (2022) #7",
+          "issueNumber": 7,
+          "variantDescription": "",
+          "description": "Even if you’re the heart of the X-Men, there’re days you want to tear out people’s heart. Judgment Day is one of them. What extreme steps will Nightcrawler take in the name of the Spark? ",
+          "modified": "2022-07-01T09:05:49-0400",
+          "isbn": "",
+          "upc": "75960620004700711",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/91738",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/91738/immortal_x-men_2022_7?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Immortal-X-Men-7/digital-comic/60565?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/31375",
+            "name": "Immortal X-Men (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/103587",
+              "name": "Immortal X-Men (2022) #7 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/634f663b5659d",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/634f663b5659d",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/91738/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                "name": "Mark Brooks",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+                "name": "Vc Clayton Cowles",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+                "name": "David Curiel",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13706",
+                "name": "Lucas Werneck",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14311",
+                "name": "Jordan White",
+                "role": "editor"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/91738/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/91738/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/204561",
+                "name": "cover from Immortal X (2021) #7",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/204562",
+                "name": "story from Immortal X (2021) #7",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/91738/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 102806,
+          "digitalId": 0,
+          "title": "A.X.E.: Death to the Mutants (2022) #3",
+          "issueNumber": 3,
+          "variantDescription": "",
+          "description": "It looks like the end of the world. The world is taking it personally. The Machine That Is Earth is having a very bad day. ",
+          "modified": "2022-07-01T09:03:38-0400",
+          "isbn": "",
+          "upc": "75960620442700311",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/102806",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/102806/axe_death_to_the_mutants_2022_3?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/A-X-E-Death-to-the-Mutants-3/digital-comic/60541?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/35455",
+            "name": "A.X.E.: Death to the Mutants (2022)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/104028",
+              "name": "A.X.E.: Death to the Mutants (2022) #3 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/634f666387aed",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/634f666387aed",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102806/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+                "name": "Erick Arciniega",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13645",
+                "name": "Alex Gomes",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                "name": "Vc Travis Lanham",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+                "name": "Esad Ribic",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13236",
+                "name": "Guiu Vilanova",
+                "role": "inker"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102806/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102806/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/226713",
+                "name": "cover from A.X.E.: Eternals - TBD (2022) #3",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/226714",
+                "name": "story from A.X.E.: Eternals - TBD (2022) #3",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/102806/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 100388,
+          "digitalId": 0,
+          "title": "Namor: Conquered Shores (2022) #1",
+          "issueNumber": 1,
+          "variantDescription": "",
+          "description": "A century into the future, not much land remains on Earth. A combination of a worsening climate and a devastating war with the Kree has left the surface of the planet mostly inhospitable, with an ever-dwindling population of air-breathers and a profound lack of super heroes to protect them. Enter NAMOR, who these many years on is no longer King of Atlantis…but ruler of the entire world.",
+          "modified": "2022-07-29T09:04:46-0400",
+          "isbn": "",
+          "upc": "75960620364200111",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/100388",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/100388/namor_conquered_shores_2022_1?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Namor-Conquered-Shores-1/digital-comic/60576?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34466",
+            "name": "Namor: Conquered Shores (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105033",
+              "name": "Namor: Conquered Shores (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105035",
+              "name": "Namor: Conquered Shores (2022) #1 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 4.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/634f6615553b2",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/634f6615553b2",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 5,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100388/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+                "name": "Christopher Cantwell",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Vc Joe Caramagna",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+                "name": "Pasqual Ferry",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+                "name": "Matt Hollingsworth",
+                "role": "colorist (cover)"
+              }
+            ],
+            "returned": 5
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100388/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100388/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/221878",
+                "name": "cover from Namor (2022) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/221879",
+                "name": "story from Namor (2022) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100388/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 104819,
+          "digitalId": 0,
+          "title": "A.X.E.: Iron Fist (2022) #1",
+          "issueNumber": 1,
+          "variantDescription": "",
+          "description": "Iron Fist faces his greatest challenge – an A.X.E. Tie-in! After the clash between Lin Lie and his brother Lin Feng, Lin Lie – the current Iron Fist, protector of the mystical city of K’un-Lun – must reclaim access to K’un-Lun! But not before he faces a trial unlike any other: SHOU-LAO THE UNDYING?! Wait, what does LOKI have to do with all of this? Find out when IRON FIST and LOKI face Judgment! ",
+          "modified": "2022-10-10T17:24:21-0400",
+          "isbn": "",
+          "upc": "75960620504200111",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 40,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/104819",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/104819/axe_iron_fist_2022_1?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/A-X-E-Iron-Fist-1/digital-comic/60543?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/36247",
+            "name": "A.X.E.: Iron Fist (2022)"
+          },
+          "variants": [],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 4.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/634f6661c081a",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/634f6661c081a",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/104819/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/428",
+                "name": "Antonio Fabela",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                "name": "Vc Travis Lanham",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                "name": "Mark Paniccia",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/489",
+                "name": "Philip Tan",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13917",
+                "name": "Alyssa Wong",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14352",
+                "name": "Michael Yg",
+                "role": "inker"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/104819/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/104819/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/230745",
+                "name": "cover from A.X.E.: Iron Fist (2022) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/230746",
+                "name": "story from A.X.E.: Iron Fist (2022) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/104819/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 100736,
+          "digitalId": 0,
+          "title": "Star Wars: The High Republic (2022) #1",
+          "issueNumber": 1,
+          "variantDescription": "",
+          "description": "A new chapter begins for Star Wars: The High Republic! One hundred and fifty years before the fall of Starlight, another beacon burns bright in the galaxy, a beacon of faith and spirituality. Jedha. The Pilgrim Moon. The Kyber Heart. But tensions are rising in the holy city and dark days are to come. Jedi Vildar Mac, a Jedi safe and secure in who he is and what he could be, arrives as Jedha's fragile peace begins to crumble... But a nightmare awaits...a nameless terror that will become the stuff of legend… ",
+          "modified": "2022-07-30T09:14:33-0400",
+          "isbn": "",
+          "upc": "75960620378900111",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 40,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/100736",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/100736/star_wars_the_high_republic_2022_1?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Star-Wars-The-High-Republic-1/digital-comic/60588?utm_campaign=apiRef&utm_source=6eeb08569c6b82e66eaf93bdb3dbda2a"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/34559",
+            "name": "Star Wars: The High Republic (2022 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105054",
+              "name": "Star Wars: The High Republic (2022) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/105053",
+              "name": "Star Wars: The High Republic (2022) #1 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "October 12, 2022"
+            },
+            {
+              "type": "focDate",
+              "date": "2022-09-12T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 4.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/634f6615280d2",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/634f6615280d2",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100736/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12492",
+                "name": "Ario Anindito",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12815",
+                "name": "Andrea Broccardo",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+                "name": "Mark Morales",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+                "name": "Vc Ariana Maher",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                "name": "Mark Paniccia",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14071",
+                "name": "Cavan Scott",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14446",
+                "name": "Frank William",
+                "role": "colorist"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100736/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100736/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/222574",
+                "name": "cover from Star Wars: The High Republic - TBD (2022) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/222575",
+                "name": "story from Star Wars: The High Republic - TBD (2022) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/100736/events",
+            "items": [],
+            "returned": 0
+          }
+        }
+      ]
+    }
